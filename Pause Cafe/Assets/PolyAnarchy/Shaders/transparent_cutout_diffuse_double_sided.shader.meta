@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5e2c76690393adb4b8055cce53b7a166
+timeCreated: 1526966981
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122913
+  packageName: MeadowLands Stylized Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/PolyAnarchy/Shaders/transparent_cutout_diffuse_double_sided.shader
+  uploadId: 256176

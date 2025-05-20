@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 30925e89febe57245a30bdd44b7c4a01
+timeCreated: 1529435758
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122913
+  packageName: MeadowLands Stylized Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/PolyAnarchy/Shaders/WaterPainted.shader
+  uploadId: 256176

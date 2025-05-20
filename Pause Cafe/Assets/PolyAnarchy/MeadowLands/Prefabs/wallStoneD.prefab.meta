@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b9b8e660e277ab14999c6c69167f8a0c
+timeCreated: 1528455459
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122913
+  packageName: MeadowLands Stylized Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/PolyAnarchy/MeadowLands/Prefabs/wallStoneD.prefab
+  uploadId: 256176

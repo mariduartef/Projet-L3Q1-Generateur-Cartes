@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 18e5c0bb5ca3d8846855869f35196970
+timeCreated: 1526964168
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122913
+  packageName: MeadowLands Stylized Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/PolyAnarchy/MeadowLands/Materials/lanternHandle.mat
+  uploadId: 256176

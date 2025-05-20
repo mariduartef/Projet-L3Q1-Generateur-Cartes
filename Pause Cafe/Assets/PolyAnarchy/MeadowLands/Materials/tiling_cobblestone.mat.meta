@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7fe7c368a18c3a1479338547bc8546fd
+timeCreated: 1531743909
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122913
+  packageName: MeadowLands Stylized Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/PolyAnarchy/MeadowLands/Materials/tiling_cobblestone.mat
+  uploadId: 256176

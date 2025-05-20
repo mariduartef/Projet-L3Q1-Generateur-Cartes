@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 42321352d56849a4b8ac51187384c29c
+timeCreated: 1529734882
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122913
+  packageName: MeadowLands Stylized Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/PolyAnarchy/MeadowLands/Prefabs/tree_cypressRedA.prefab
+  uploadId: 256176

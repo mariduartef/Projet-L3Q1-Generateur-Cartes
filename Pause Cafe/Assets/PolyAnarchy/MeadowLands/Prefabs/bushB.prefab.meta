@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 32f05b0f3303a0047949a74b2d0bb462
+timeCreated: 1529648629
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122913
+  packageName: MeadowLands Stylized Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/PolyAnarchy/MeadowLands/Prefabs/bushB.prefab
+  uploadId: 256176

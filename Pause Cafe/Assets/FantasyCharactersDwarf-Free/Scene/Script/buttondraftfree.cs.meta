@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 12f6001ae5f6e4379a9a0c707a62bb1f
+timeCreated: 1534000013
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142323
+  packageName: "Fantasy \u0421haracter Dwarf-Free - Strategy, RPG, Mobile games"
+  packageVersion: 1.0
+  assetPath: Assets/FantasyCharactersDwarf-Free/Scene/Script/buttondraftfree.cs
+  uploadId: 300925

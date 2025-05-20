@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: dad9533fdea215844935262d6f2d2458
+timeCreated: 1528546841
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122913
+  packageName: MeadowLands Stylized Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/PolyAnarchy/MeadowLands/Prefabs/rockB.prefab
+  uploadId: 256176

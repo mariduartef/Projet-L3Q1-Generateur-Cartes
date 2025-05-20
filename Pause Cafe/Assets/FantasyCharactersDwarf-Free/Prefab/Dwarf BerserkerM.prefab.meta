@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2bdbc34c6abe44717aca1013ebad4f6e
+timeCreated: 1553067920
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142323
+  packageName: "Fantasy \u0421haracter Dwarf-Free - Strategy, RPG, Mobile games"
+  packageVersion: 1.0
+  assetPath: Assets/FantasyCharactersDwarf-Free/Prefab/Dwarf BerserkerM.prefab
+  uploadId: 300925
